@@ -1,1 +1,1 @@
-# VizagBlog
+# We are practicing git here
